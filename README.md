@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 👋 Hello, I'm Amir! 👋
+#Business Analytics Graduate | Data Scientist | Certified Machine Learning Expert |
 <!--
 **model-maven/model-maven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
